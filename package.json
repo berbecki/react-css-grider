@@ -3,6 +3,7 @@
   "name": "react-css-grider",
   "main": "./index.js",
   "author": "Jacek Berbecki",
+  "repository": "https://github.com/berbecki/react-css-grider",
   "dependencies": {
     "styled-components": "^3.1.6"
   }
