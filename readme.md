@@ -5,7 +5,7 @@ The simple, declarative and small but powerful and expressive React Component to
 * [CSS Grid](https://drafts.csswg.org/css-align-3/#propdef-gap)
 * [canIuse](https://caniuse.com/#search=css%20grid)
 
-*[SCENARIOS](https://github.com/berbecki/react-css-grider/wiki)
+* [SCENARIOS](https://github.com/berbecki/react-css-grider/wiki)
 
 ### Usage
 Instal first:
